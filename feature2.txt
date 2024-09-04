@@ -1,3 +1,2 @@
 feature 2
-merge conflict
-
+feature2 conflict
