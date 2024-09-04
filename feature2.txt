@@ -1,2 +1,3 @@
 feature 2
 main conflict
+feature2 conflict
